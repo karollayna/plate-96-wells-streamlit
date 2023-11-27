@@ -1,7 +1,25 @@
-# Welcome to streamlit
+# 📦 Streamlit App Starter Kit 
+```
+⬆️ (Replace above with your app's name)
+```
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+Description of the app ...
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+## Demo App
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+
+## GitHub Codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+
+## Section Heading
+
+This is filler text, please replace this with text for this section.
+
+## Further Reading
+
+This is filler text, please replace this with a explanatory text about further relevant resources for this repo
+- Resource 1
+- Resource 2
+- Resource 3
