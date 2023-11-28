@@ -1,10 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Streamlit App 
 ```
-⬆️ (Replace above with your app's name)
+Photodynamic treatment
 ```
 
-Description of the app ...
-
+Application for data analysis for cell lines after treatment with drug and photodynamic therapy
 ## Demo App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
