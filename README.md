@@ -6,7 +6,7 @@ Photodynamic treatment
 Application for data analysis for cell lines after treatment with drug and photodynamic therapy
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://plate-96-wells-app.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://karollayna-plate-96-wells.streamlit.app/)
 
 ## Section Heading
 
